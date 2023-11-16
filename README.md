@@ -33,6 +33,6 @@ Once satisfied with your model's performance, deploy it to make predictions on n
 Monitoring and Maintenance:
 
 Continuously monitor the model's performance in a real-world setting. Periodically update the model with new data and retrain if necessary.
-Documentation:
+Documentation
 
 Document your entire process, including data sources, preprocessing steps, model selection, and deployment details. This documentation is crucial for reproducibility and future reference.
